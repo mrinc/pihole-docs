@@ -191,6 +191,7 @@ nav:
     - 'Nokia G-240W-B': routers/nokia-G240WB.md
     - 'TP-Link': routers/tp-link.md
     - 'Ubiquiti USG': routers/ubiquiti-usg.md
+    - 'Mikrotik': routers/mikrotik.md
   - 'FAQ': main/faq.md
   - 'Community Projects': main/projects.md
 
